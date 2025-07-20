@@ -1,0 +1,233 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Image_1.png"
+      }
+    },
+    "style_loom_EFbgLE": {
+      "type": "style-loom",
+      "blocks": {
+        "button_Vf8ieH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/all"
+          }
+        }
+      },
+      "block_order": [
+        "button_Vf8ieH"
+      ],
+      "name": "Style Loom Hero Banner",
+      "settings": {
+        "heading": "ELEVATE YOUR STYLE WITH STYLELOOM",
+        "description": "Explore a world of fashion at StyleLoom, where trends meet affordability. Immerse yourself in the latest styles and seize exclusive promotions.",
+        "stat_1_heading": "1,500+",
+        "stat_1_text": "Fashion Products",
+        "stat_2_heading": "50+",
+        "stat_2_text": "New arrivals every month.",
+        "stat_3_heading": "30% OFF",
+        "stat_3_text": "on select items.",
+        "stat_4_heading": "95%",
+        "stat_4_text": "Customer Satisfaction Rate",
+        "nav_menu": "main-menu"
+      }
+    },
+    "trends_grid_VYKwEG": {
+      "type": "trends-grid",
+      "blocks": {
+        "trend_item_PQAewF": {
+          "type": "trend_item",
+          "settings": {
+            "title": "Passionate Craftsmanship",
+            "description": "Every garment at StyleLoom is crafted with passion, reflecting our commitment to quality and innovation."
+          }
+        },
+        "trend_item_AkdFEW": {
+          "type": "trend_item",
+          "settings": {
+            "title": "Fashion Forward",
+            "description": "We're more than a brand; we're trendsetters, curating styles that empower and inspire confidence."
+          }
+        },
+        "trend_item_PmMeRR": {
+          "type": "trend_item",
+          "settings": {
+            "title": "Customer-Centric Approach",
+            "description": "At StyleLoom, our customers are at the heart of everything we do. Your satisfaction is our measure of success."
+          }
+        },
+        "trend_item_HTmYMF": {
+          "type": "trend_item",
+          "settings": {
+            "title": "Global Inspiration",
+            "description": "Influenced by global trends, we bring you a diverse and dynamic collection, embodying the spirit of fashion from around the world."
+          }
+        },
+        "trend_item_j87MTD": {
+          "type": "trend_item",
+          "settings": {
+            "title": "Empowering Your Style",
+            "description": "Beyond clothing, StyleLoom is a lifestyle. Join us on a journey of self-expression and empowerment through fashion."
+          }
+        },
+        "trend_item_QnaD68": {
+          "type": "trend_item",
+          "settings": {
+            "title": "Sustainable Practices",
+            "description": "StyleLoom is committed to sustainability, integrating eco-friendly practices into our production process."
+          }
+        }
+      },
+      "block_order": [
+        "trend_item_PQAewF",
+        "trend_item_AkdFEW",
+        "trend_item_PmMeRR",
+        "trend_item_HTmYMF",
+        "trend_item_j87MTD",
+        "trend_item_QnaD68"
+      ],
+      "name": "Trends Grid",
+      "settings": {
+        "section_heading": "What's Trending",
+        "section_subtext": "Discover top picks tailored for your style."
+      }
+    },
+    "fashion_journey_U8KJCY": {
+      "type": "fashion-journey",
+      "blocks": {
+        "step_YiVHqC": {
+          "type": "step",
+          "settings": {
+            "number": "Step 01",
+            "title": "Discover Trends",
+            "description": "Explore our curated collection of over 1000 styles, spanning global fashion trends."
+          }
+        },
+        "step_bYTdzr": {
+          "type": "step",
+          "settings": {
+            "number": "Step 01",
+            "title": "Discover Trends",
+            "description": "Explore our curated collection of over 1000 styles, spanning global fashion trends."
+          }
+        },
+        "step_Adghn9": {
+          "type": "step",
+          "settings": {
+            "number": "Step 01",
+            "title": "Discover Trends",
+            "description": "Explore our curated collection of over 1000 styles, spanning global fashion trends."
+          }
+        }
+      },
+      "block_order": [
+        "step_YiVHqC",
+        "step_bYTdzr",
+        "step_Adghn9"
+      ],
+      "name": "Fashion Journey Default",
+      "settings": {
+        "title": "Navigating the StyleLoom Fashion Journey",
+        "description": "We've designed a straightforward shopping experience to make fashion accessible."
+      }
+    },
+    "collection_grid_NYPJWR": {
+      "type": "collection-grid",
+      "blocks": {
+        "collection_item_7CEi4r": {
+          "type": "collection_item",
+          "settings": {
+            "product_image": "shopify://shop_images/image.png",
+            "product_name": "Timeless A-line Evening Dress",
+            "product_tags": "Womenswear",
+            "product_size": "Ankle-length",
+            "product_price": "$109.99"
+          }
+        },
+        "collection_item_8pagc6": {
+          "type": "collection_item",
+          "settings": {
+            "product_image": "shopify://shop_images/image.png",
+            "product_name": "Timeless A-line Evening Dress",
+            "product_tags": "Womenswear",
+            "product_size": "Ankle-length",
+            "product_price": "$109.99"
+          }
+        },
+        "collection_item_C4NNU7": {
+          "type": "collection_item",
+          "settings": {
+            "product_image": "shopify://shop_images/Image_3.png",
+            "product_name": "Timeless A-line Evening Dress",
+            "product_tags": "Womenswear",
+            "product_size": "Ankle-length",
+            "product_price": "$109.99"
+          }
+        },
+        "collection_item_ejqHeB": {
+          "type": "collection_item",
+          "settings": {
+            "product_image": "shopify://shop_images/Image_3.png",
+            "product_name": "Timeless A-line Evening Dress",
+            "product_tags": "Womenswear",
+            "product_size": "Ankle-length",
+            "product_price": "$109.99"
+          }
+        },
+        "collection_item_Fb7cCK": {
+          "type": "collection_item",
+          "settings": {
+            "product_image": "shopify://shop_images/Image_4.png",
+            "product_name": "Timeless A-line Evening Dress",
+            "product_tags": "Womenswear",
+            "product_size": "Ankle-length",
+            "product_price": "$109.99"
+          }
+        },
+        "collection_item_FByNMY": {
+          "type": "collection_item",
+          "settings": {
+            "product_image": "shopify://shop_images/Image_4.png",
+            "product_name": "Timeless A-line Evening Dress",
+            "product_tags": "Womenswear",
+            "product_size": "Ankle-length",
+            "product_price": "$109.99"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_7CEi4r",
+        "collection_item_8pagc6",
+        "collection_item_C4NNU7",
+        "collection_item_ejqHeB",
+        "collection_item_Fb7cCK",
+        "collection_item_FByNMY"
+      ],
+      "name": "Collection Grid",
+      "settings": {
+        "heading": "ELEVATE YOUR STYLE WITH OUR LATEST COLLECTION",
+        "subheading": "Each piece is crafted to enhance your fashion statement.",
+        "button_label": "Shop Now"
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "style_loom_EFbgLE",
+    "trends_grid_VYKwEG",
+    "fashion_journey_U8KJCY",
+    "collection_grid_NYPJWR"
+  ]
+}
